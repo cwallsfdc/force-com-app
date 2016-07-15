@@ -4,7 +4,8 @@
     {
       "plan": "salesforce",
       "options": {
-         "generate_subdomain": true
+         "generate_subdomain": true,
+         "environment_hub": "nb@hub0211.org"
       }
     }
   ],
